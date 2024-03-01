@@ -6,11 +6,11 @@ print("Comillas Dobles")
 # Escribir comentarios en 1 línea 
 
 '''
-Escribir comentarios en multimples 
+Escribir comentarios en multiples 
 líneas con comillas simples
 '''
 
 """
-Escribir comentarios en multimples 
+Escribir comentarios en multiples 
 líneas con comillas dobles
 """
