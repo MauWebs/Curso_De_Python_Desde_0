@@ -1,4 +1,4 @@
-# Mis redes sociales:
+# Mis redes sociales: ![My Skills](https://skillicons.dev/icons?i=python)
 
 #### ⬇️ Click para ver la red social ⬇️
 
